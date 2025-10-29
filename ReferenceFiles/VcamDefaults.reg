@@ -1,0 +1,64 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_CURRENT_USER\Software\WISE Software\VisualCAM 16.9\Gerber Export Format]
+"Poly Arc Chord Angle"=dword:00000064
+"Terminator"="*\\r\\n"
+"G Commands"=dword:00000001
+"Honor CrLf"=dword:00000000
+"M"=dword:00000003
+"Dialect"=dword:00000066
+"N"=dword:00000003
+"Metric"=dword:00000001
+"User Data"=dword:00000001
+"Zero Suppression"=dword:00000001
+"Modal"=dword:00000000
+"Convert Small Arcs"=dword:00000000
+"Min Arc Angle"=dword:00000032
+"Character Set"=dword:00000000
+"Flags"=dword:00000000
+"Short X Macro Names"=dword:00000000
+"All Arcs 360"=dword:00000000
+"Min Arc Delta"=dword:000009ec
+"Arcs Not Modal"=dword:00000000
+"Nets"=dword:00000000
+"Comments"=dword:00000001
+"Include Unused Apertures"=dword:00000000
+"Mode"=dword:00000001
+"Create Composites"=dword:00000000
+"Merge Polys"=dword:00000000
+"Max Board Size"=dword:03c8eee0
+
+[HKEY_CURRENT_USER\Software\WISE Software\VisualCAM 16.9\General]
+"Undo"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\WISE Software\VisualCAM 16.9\Import Wizard\]
+"Keep Extensions"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\WISE Software\VisualCAM 16.9\Function Keys-Stencils]
+"F1"="Help"
+"F2"="StentechMainProcess"
+"F3"="StentechCheckPlot"
+"F4"="StentechExportFiles"
+"F5"="ViewAll"
+"F6"="PrintReports"
+"F7"="UpdateJobDetails"
+"F8"=
+"F9"=
+"F10"=
+"F11"=
+"F12"="WISE_CenterLayers"
+
+[HKEY_CURRENT_USER\Software\WISE Software\VisualCAM 16.9\Function Keys]
+"F1"="Help"
+"F2"="StentechMainProcess"
+"F3"="StentechCheckPlot"
+"F4"="StentechExportFiles"
+"F5"="ViewAll"
+"F6"="PrintReports"
+"F7"="UpdateJobDetails"
+"F8"=
+"F9"=
+"F10"=
+"F11"=
+"F12"="WISE_CenterLayers"
